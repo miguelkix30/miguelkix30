@@ -59,9 +59,9 @@
 ### ▸ GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=miguelkix30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155" alt="stats graph" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=miguelkix30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=miguelkix30&theme=tokyonight&hide_border=true&background=0d1117" height="155" alt="streak graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=elmiguelki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=elmiguelki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=elmiguelki&theme=tokyonight&hide_border=true&background=0d1117" height="155" alt="streak graph" />
 </div>
 
 ---
@@ -69,7 +69,7 @@
 ### ▸ Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/miguelkix30/miguelkix30/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/elmiguelki/elmiguelki/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
